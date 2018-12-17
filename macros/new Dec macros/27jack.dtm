@@ -1,0 +1,6 @@
+macro \name "27 DEC" \mode HOUR_ANGLE
+exec \hour 0 \minute -10 \second 00 \action DOME_CCW \duration 7.0
+exec \hour 1 \minute 15 \second 00 \action DOME_CCW \duration 9.0
+exec \hour 2 \minute 20 \second 00 \action DOME_CCW \duration 9.0
+exec \hour 3 \minute 20 \second 00 \action DOME_CCW \duration 6.0
+exec \hour 4 \minute 30 \second 00 \action DOME_CCW \duration 5.0
